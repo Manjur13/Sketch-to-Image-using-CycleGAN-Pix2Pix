@@ -55,3 +55,42 @@ A Deep Learning project aimed at translating sketches into photorealistic images
 - **Replay Buffer**: Used in Discriminator training to reduce oscillations
 
 ---
+
+
+## 📈 Results
+
+- Models show significant improvement over epochs
+- CycleGAN learns structure via cycle-consistency
+- Pix2Pix generates more accurate outputs when paired data is available
+
+<p align="center">
+  <img src="samples/fashion_output.png" width="400" />
+  <img src="samples/face_output.png" width="400" />
+</p>
+
+---
+
+## 🔍 Future Work
+
+- Improve realism using FID (Fréchet Inception Distance)
+- Apply better architectures (e.g., StyleGAN2, SPADE)
+- Extend to other domains like architecture or product design
+
+---
+
+## 🏁 Conclusion
+
+We successfully demonstrated sketch-to-image translation using CycleGAN and Pix2Pix. The models were able to generate realistic outputs from limited data and offer a foundation for future research and product development in creative AI.
+
+---
+
+## 📬 Contact
+
+For any queries or collaborations, feel free to reach out to:
+
+**Manjur Kovadiya**  
+[LinkedIn](https://www.linkedin.com/in/manjur-kovadiya/) | [Email](mailto:kovadiyamanjur@gmail.com)
+
+---
+
+⭐ Don't forget to star this repo if you find it useful!
