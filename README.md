@@ -1,4 +1,4 @@
-<img width="596" alt="image" src="https://github.com/user-attachments/assets/f3d32609-403c-44d1-be9b-ec78441ead04" /># 🧠 Sketch-to-Image Translation using CycleGAN & Pix2Pix
+🧠 Sketch-to-Image Translation using CycleGAN & Pix2Pix
 
 A Deep Learning project aimed at translating sketches into photorealistic images using two powerful GAN architectures — CycleGAN (for unpaired datasets) and Pix2Pix (for paired datasets). This project demonstrates the effectiveness of GANs in fashion design visualization and face reconstruction from sketch inputs.
 
@@ -63,11 +63,7 @@ A Deep Learning project aimed at translating sketches into photorealistic images
 - CycleGAN learns structure via cycle-consistency
 - Pix2Pix generates more accurate outputs when paired data is available
 
-<p align="center">
-  <img src="samples/fashion_output.png" width="400" />
-  <img src="<img width="596" alt="image" src="https://github.com/user-attachments/assets/e6ab2861-2df1-46e3-9943-4257ba845dbd" />
-" width="400" />
-</p>
+<img width="596" alt="image" src="https://github.com/user-attachments/assets/f3d32609-403c-44d1-be9b-ec78441ead04" />#
 
 ---
 
